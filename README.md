@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about glucose level prdiction, machine learning and inductive biases
 - 📫 How to reach me: haider.ali@autuni.ac.nz
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speak Chinese, Punjabi, English and Urdu and can play table tennis (terribly) with bot hands
+- ⚡ Fun fact: I can speak Chinese, Punjabi, English and Urdu and can play table tennis (terribly) with both hands
   
