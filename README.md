@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on predicting glucose using wearable sensors optimization of forward works program
+- 🌱 I’m currently learning reinforcement learning and active inference
+- 👯 I’m looking to collaborate on https://physionet.org/news/post/challenge-2024 (Digitization of ECG records from photo)
+- 🤔 I’m looking for help with understanding free energy principle and category theory
+- 💬 Ask me about glucose level prdiction, machine learning and inductive biases
+- 📫 How to reach me: haider.ali@autuni.ac.nz
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can speak Chinese, Punjabi, English and Urdu and can play table tennis (terribly) with bot hands
+  
